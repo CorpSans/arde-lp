@@ -9,12 +9,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Arde Tech',
-        theme: ThemeData(
-            primarySwatch: Colors.blue,
-            textTheme: Theme.of(context).textTheme.apply(
-                  fontFamily: 'Open Sans',
-                )),
-        home: HomeView());
+      title: 'Arde Tech',
+      theme: ThemeData(
+          primarySwatch: Colors.blue,
+          textTheme: Theme.of(context).textTheme.apply(
+                fontFamily: 'Open Sans',
+              )),
+      home: HomeView(),
+    );
   }
 }

@@ -1,11 +1,11 @@
 {
-    "name": "lpage",
-    "short_name": "lpage",
+    "name": "Arde Tech",
+    "short_name": "Arde Tech",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#a71c1c",
+    "theme_color": "#a71c1c",
+    "description": "Arde InfoTech Solutions Website",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
